@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "确认密码"; ObjectID = "IkF-CM-cFh"; */
+"IkF-CM-cFh.text" = "确认密码";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "J2l-bt-IZm"; */
+"J2l-bt-IZm.normalTitle" = "注册";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "Xem-jV-grN"; */
+"Xem-jV-grN.normalTitle" = "返回";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "a4f-2W-vA6"; */
+"a4f-2W-vA6.text" = "密码";
+
+/* Class = "UILabel"; text = "注册账号"; ObjectID = "cMP-5r-BLm"; */
+"cMP-5r-BLm.text" = "注册账号";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "dXh-Zg-H7M"; */
+"dXh-Zg-H7M.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "ePN-Tj-uI4"; */
+"ePN-Tj-uI4.text" = "用户名";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "nNa-qW-jUg"; */
+"nNa-qW-jUg.text" = "密码";
+
+/* Class = "UIButton"; normalTitle = "登陆"; ObjectID = "owe-cU-OAO"; */
+"owe-cU-OAO.normalTitle" = "登陆";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "xrW-z4-GY1"; */
+"xrW-z4-GY1.text" = "用户名";

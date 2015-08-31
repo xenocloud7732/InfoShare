@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  InfoShare
+
+  Created by xjw03 on 15/8/21.
+  Copyright (c) 2015年 xjw03. All rights reserved.
+*/
+"Release to refresh..."="释放刷新...";
+"Last Updated:"="上次更新时间:";
+"Loading..."="加载中...";
+"Pull down to refresh..."="下拉刷新";
+"Pull up to refresh..."="上拉刷新";
